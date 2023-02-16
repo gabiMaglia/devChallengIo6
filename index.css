@@ -1,0 +1,125 @@
+.shoppingCart {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    /* max-height: 489px; */
+    width: 100%;
+    margin-inline: auto;
+    background: #f2f2f2;
+    border-radius: 12px;
+
+    padding: 2rem 1rem;
+  }
+
+  .product {
+    display: inherit;
+  }
+
+  .img {
+    
+  }
+  
+  .img img {
+    
+  
+    max-height: 124.32px;
+    border-radius: 13px;
+  
+   
+    padding:  10px;
+
+    /* width: 100%; */
+    
+  }
+  .prices {
+    display: flex;
+    gap: 2em;
+  }
+  .amount {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 122.8px;
+    height: 49.86px;
+    padding: 0 1em ;
+    border: 1px solid #828282;
+    border-radius: 12px;
+  }
+  .op{
+    text-align: center;
+    width: 21px;
+    height: 21px;
+    background: #E0E0E0;
+    border-radius: 4px;
+  }
+
+  .bill {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .bill div{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .formV {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .inputText {
+    max-width:  465px;
+    max-height: 56px;
+    width: 100%;
+    height: 40.56px;
+    padding: 1em;
+    border: 1px solid #828282;
+    border-radius: 12px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #828282;
+  }
+
+  label {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    transform: rotate(-0.02deg);
+  }
+
+  .checkB {
+    display: block;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4f4f4f;
+    transform: rotate(-0.02deg);
+  }
+
+  .submit {
+    float: right;
+    width: 166px;
+    height: 54px;
+
+    background: #f2994a;
+    border-radius: 12px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #ffffff;
+  }
