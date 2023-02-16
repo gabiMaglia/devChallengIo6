@@ -59,7 +59,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and Li
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/gabiMaglia/devChallengIo6.git
 
 #  Open with live server
 
