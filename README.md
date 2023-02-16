@@ -63,7 +63,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 #  Open with live server
 
-## Acknowledgements
+```
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
